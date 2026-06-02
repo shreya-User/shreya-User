@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-user&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-user" /> </p>
 
-- 🌱 I’m currently learning **Python, HTML-CSS, etc**
+- 🌱 I’m currently learning **Python, HTML-CSS, AI/ML, Java fullstack,  etc**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ shreya-singh-1660a61b3](www.linkedin.com/in/ shreya-singh-1660a61b3)
 

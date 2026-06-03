@@ -36,7 +36,7 @@
 
 💼 **Open to full-time roles** in Python Development, Data Science, or Android Development
 
-This gives you badges, a clean project table, and a LinkedIn link — it looks professional and takes about 2 minutes to set up. Want me to write your resume next?You said: give me graduate cap emojogive me graduate cap emojo12:58 PMClaude responded: 🎓🎓Sonnet 4.6 Low
+
 
 
 

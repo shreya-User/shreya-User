@@ -34,7 +34,7 @@
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-singh-1660a61b3)
 
-💼 **Open to full-time roles** in Python Development, Data Science, or Android Development
+💼 **Open to full-time roles** in Python Development, Data Science, , Android Development , Software developer or Java Fullstack
 
 
 

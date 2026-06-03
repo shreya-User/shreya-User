@@ -5,9 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-user&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-user" /> </p>
 
+-🎓 BE Computer Science (Data Science) Graduate • Class of 2026
+
 - 🌱 I’m currently learning **Python, HTML-CSS, AI/ML, Java fullstack,  etc**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ shreya-singh-1660a61b3](www.linkedin.com/in/ shreya-singh-1660a61b3)
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

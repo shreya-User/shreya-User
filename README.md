@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate CSE-DS Student from India</h3>
-<img align="right"alt="coding"width="400"src="https://github.com/user-attachments/assets/xxxxx"> 
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-User&color=blue" /> </p>
 

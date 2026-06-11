@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, HTML-CSS, AI/ML, Java fullstack,  etc**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ shreya-singh-1660a61b3](www.linkedin.com/in/ shreya-singh-1660a61b3)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ shreya-singh-1660a61b3]
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

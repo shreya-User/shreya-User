@@ -25,11 +25,13 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [Financely](https://github.com/shreya-User/Financely) | Python, Django, Prophet | AI-powered stock prediction & finance dashboard |
-| [Find Your Worker](https://github.com/shreya-User/find-your-worker-platform) | Python, Flask, SQLite | Service marketplace connecting users with local workers |
+| [Find Your Worker](https://github.com/shreya-User/find-your-worker-platform) | Python, Django, SQLite | Service marketplace connecting users with local workers |
+| [Student Performance Analysis](link) | Python, Pandas, Seaborn | EDA on factors affecting student academic performance |
+| [Campus Energy Seer](link) | TypeScript, React | Campus energy consumption prediction dashboard |
+| [Hotel Management](https://github.com/shreya-User/Hotel-Management) | Java, Android, Firebase | Android app for hotel room booking with an admin dashboard |
 | [Smart Parking System](https://github.com/shreya-User/smart-parking-system) | Android, Java, Firebase | Real-time parking slot booking app |
-| [Campus Energy Seer](https://github.com/shreya-User/campus-energy-seer) | TypeScript, React | Campus energy consumption prediction dashboard |
-| [Student Performance Analysis](https://github.com/shreya-User/student-performance-analysis) | Python, Pandas, Seaborn | EDA on factors affecting student academic performance |
+| [Financely](link) | Python, Django, Prophet | AI-powered stock prediction & finance dashboard |
+
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-singh-1660a61b3)

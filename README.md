@@ -48,6 +48,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-umber-ten.vercel.app/api?username=shreya-User&show_icons=true&locale=en" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=shreya-User" alt="shreya-user" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shreya-User" /></p>
 
 
